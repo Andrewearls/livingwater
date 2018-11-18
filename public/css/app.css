@@ -82,6 +82,10 @@ span {
 	    font-size: 24px;
 	}
 
+#verseoftheday img {
+	display: none;
+}
+
 #main-content{
 	padding: 5px;
 }
